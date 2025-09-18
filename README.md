@@ -2,7 +2,7 @@ Titanic Dataset Exploratory Data Analysis (EDA)
 📌 Project Overview
 
 This project is a part of my micro-project journey with SkillCraft Technologies.
-The aim of this project is to perform Exploratory Data Analysis (EDA) on the Titanic dataset to uncover meaningful patterns, relationships, and insights from the data adn to form a desicion tree.
+The aim of this project is to perform Exploratory Data Analysis (EDA) on the Titanic dataset to uncover meaningful patterns, relationships, and insights from the data.
 
 The Titanic dataset is a classic dataset used in data science and machine learning to practice data cleaning, visualization, and analysis skills.
 
